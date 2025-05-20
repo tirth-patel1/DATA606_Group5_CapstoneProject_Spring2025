@@ -1,5 +1,5 @@
 # DATA606_Group5_CapstoneProject_Spring2025
-This is our capstone project for DATA 606 Spring 2025
+This is our capstone project for DATA 606 Spring 2025 done by Tirth Patel and Deeya Patel
 
 The dataset we used for the project is included and the notebook where we created models, visuals, and UI.
 
